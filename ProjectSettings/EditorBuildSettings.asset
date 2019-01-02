@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Topdown Kit/Scene/My Character Creation.unity
+    guid: 3dba916decd568b4e926b193a585c0ba
+  - enabled: 1
+    path: Assets/Topdown Kit/Scene/MyTitleScene.unity
+    guid: 6cdbf3a09f6ab9e48b185d1493082fa1
+  - enabled: 1
+    path: Assets/Topdown Kit/Scene/Loading.unity
+    guid: 985ee8abf10205c4a8890bef9dd437d9
+  - enabled: 1
+    path: Assets/Topdown Kit/Scene/ceshi.unity
+    guid: 146caa583b98d804793b95346fc7a26d
+  m_configObjects: {}
